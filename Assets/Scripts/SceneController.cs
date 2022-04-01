@@ -22,6 +22,6 @@ public class SceneController : MonoBehaviour
     }
     private void MainSceneChange()
     {
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene("MainScene"); 
     }
 }
